@@ -1,6 +1,7 @@
 ---
 title: 'Erstes Kapitel'
 description: Test
+free_preview: true
 ---
 
 ## Example coding exercise
